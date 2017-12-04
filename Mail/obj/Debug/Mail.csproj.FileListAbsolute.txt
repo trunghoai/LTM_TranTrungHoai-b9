@@ -1,0 +1,6 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\bin\Debug\Mail.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\bin\Debug\Mail.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\bin\Debug\Mail.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\obj\Debug\Mail.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b9\Mail\obj\Debug\Mail.pdb
